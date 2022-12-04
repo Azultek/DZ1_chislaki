@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\marsh\source\repos\DZ1_chislaki\DZ1_chislaki\Source.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  DZ1_chislaki.vcxproj -> C:\Users\marsh\source\repos\DZ1_chislaki\Debug\DZ1_chislaki.exe
